@@ -1,4 +1,4 @@
-# 📊 Excel Sales & Finance Analytics Portfolio
+#  Excel Sales & Finance Analytics Portfolio
 
 Welcome! This repository showcases a collection of **real-world Excel projects** focused on **sales analytics, financial reporting, and business performance tracking**. These projects were created to simulate the type of work expected in business and data analyst roles.
 
@@ -6,7 +6,7 @@ Each project solves a specific business problem using advanced Excel techniques 
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 | Project | Focus Area | Key Feature |
 |--------|------------|--------------|
@@ -18,100 +18,100 @@ Each project solves a specific business problem using advanced Excel techniques 
 
 ---
 
-## 📁 Project 1: Customer Performance Report
+##  Project 1: Customer Performance Report
 
 📄 [View Report (PDF)](Customer%20Performance%20Report.pdf)
 
-### 🎯 Objective:
+###  Objective:
 Analyze customer-wise net sales across 3 years (2019–2021) to identify high-value clients and performance patterns.
 
-### 📊 Key Insights:
+###  Key Insights:
 - 300%+ YoY growth for major retailers like Amazon & AtliQ Exclusive  
 - Discovery of underperforming accounts for discount negotiations  
 - Metrics used: Net Sales, Growth %, Year Comparison
 
-### 💼 Business Use Case:
+###  Business Use Case:
 - Strengthen negotiation power with B2B clients
 - Tailor pricing/discount models for loyal or growing customers
 
 ---
 
-## 📁 Project 2: Market Performance vs Sales Target
+##  Project 2: Market Performance vs Sales Target
 
 📄 [View Report (PDF)](Market%20Performance%20vs%20Target%20Report.pdf)
 
-### 🎯 Objective:
+###  Objective:
 Compare actual sales to target values across global markets to identify underperforming countries.
 
-### 📊 Key Insights:
+###  Key Insights:
 - Canada, Germany, and USA missed targets by ~10–15%  
 - India and France showed strong revenue, yet underachieved
 
-### 💼 Business Use Case:
+###  Business Use Case:
 - Reshape sales strategies in weak markets
 - Evaluate marketing spend vs output by region
 
 ---
 
-## 📁 Project 3: Profit & Loss Report by Fiscal Year
+##  Project 3: Profit & Loss Report by Fiscal Year
 
 📄 [View Report (PDF)](P%26L%20Statement%20by%20Fiscal%20Year.pdf)
 
-### 🎯 Objective:
+###  Objective:
 Provide a P&L statement overview for three fiscal years using core financial KPIs.
 
-### 📊 Key Insights:
+###  Key Insights:
 - Net Sales surged from ₹87.5M in 2019 to ₹598.9M in 2021  
 - COGS scaled proportionally; GM% dropped by 2.3%  
 
-### 💼 Business Use Case:
+###  Business Use Case:
 - Executive decision-making on profitability & cost efficiency
 - Foundation for financial forecasting & planning
 
 ---
 
-## 📁 Project 4: Profit & Loss Report by Market
+##  Project 4: Profit & Loss Report by Market
 
 📄 [View Report (PDF)](P%26L%20Statement%20by%20Markets.pdf)
 
-### 🎯 Objective:
+###  Objective:
 Break down profitability (Net Sales, COGS, GM%) across each market in FY2021.
 
-### 📊 Key Insights:
+###  Key Insights:
 - Japan, France, and UK showed strongest GM%
 - Markets with low GM% highlight operational inefficiencies
 
-### 💼 Business Use Case:
+###  Business Use Case:
 - Inform market entry/exit strategies
 - Optimize supply chain & operations in low-margin regions
 
 ---
 
-## 📁 Project 5: Profit & Loss Report by Months
+##  Project 5: Profit & Loss Report by Months
 
 📄 [View Report (PDF)](P%26L%20Statement%20by%20Months.pdf)
 
-### 🎯 Objective:
+###  Objective:
 Analyze seasonal trends in sales, cost, and margin data across FY2019–FY2021.
 
-### 📊 Key Insights:
+###  Key Insights:
 - Q4 consistently showed the highest revenue  
 - Steady GM% performance through all months (avg. ~36–38%)
 
-### 💼 Business Use Case:
+###  Business Use Case:
 - Seasonal inventory planning
 - Monthly budgeting and resource allocation
 
 ---
 
-## 🛠️ Tools & Technical Skills
+##  Tools & Technical Skills
 - Excel (Pivot Tables, Charts, Slicers)
 - Power Query & Data Cleaning
 - DAX for calculated columns
 - ETL Concepts: Extract, Transform, Load
 - Date Table logic (fiscal quarters, months)
 
-## 🧠 Business Skills
+##  Business Skills
 - Building business-first dashboards
 - Financial and sales KPI interpretation
 - Strategic insights for management
@@ -119,7 +119,7 @@ Analyze seasonal trends in sales, cost, and margin data across FY2019–FY2021.
 
 ---
 
-## 👋 About Me
+##  About Me
 **Hi, I’m Yash!**  
 A Business & Data Analyst based in Toronto, passionate about turning raw data into business decisions.
 
