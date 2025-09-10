@@ -6,7 +6,7 @@ Each project solves a specific business problem using advanced Excel techniques 
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 | Project | Focus Area | Key Feature |
 |--------|------------|--------------|
@@ -22,15 +22,15 @@ Each project solves a specific business problem using advanced Excel techniques 
 
 📄 [View Report (PDF)](Customer%20Performance%20Report.pdf)
 
-### 🎯 Objective:
+###  Objective:
 Analyze customer-wise net sales across 3 years (2019–2021) to identify high-value clients and performance patterns.
 
-### 📊 Key Insights:
+###  Key Insights:
 - 300%+ YoY growth for major retailers like Amazon & AtliQ Exclusive  
 - Discovery of underperforming accounts for discount negotiations  
 - Metrics used: Net Sales, Growth %, Year Comparison
 
-### 💼 Business Use Case:
+###  Business Use Case:
 - Strengthen negotiation power with B2B clients
 - Tailor pricing/discount models for loyal or growing customers
 
@@ -40,14 +40,14 @@ Analyze customer-wise net sales across 3 years (2019–2021) to identify high-va
 
 📄 [View Report (PDF)](Market%20Performance%20vs%20Target%20Report.pdf)
 
-### 🎯 Objective:
+###  Objective:
 Compare actual sales to target values across global markets to identify underperforming countries.
 
-### 📊 Key Insights:
+###  Key Insights:
 - Canada, Germany, and USA missed targets by ~10–15%  
 - India and France showed strong revenue, yet underachieved
 
-### 💼 Business Use Case:
+###  Business Use Case:
 - Reshape sales strategies in weak markets
 - Evaluate marketing spend vs output by region
 
@@ -57,14 +57,14 @@ Compare actual sales to target values across global markets to identify underper
 
 📄 [View Report (PDF)](P%26L%20Statement%20by%20Fiscal%20Year.pdf)
 
-### 🎯 Objective:
+###  Objective:
 Provide a P&L statement overview for three fiscal years using core financial KPIs.
 
-### 📊 Key Insights:
+###  Key Insights:
 - Net Sales surged from ₹87.5M in 2019 to ₹598.9M in 2021  
 - COGS scaled proportionally; GM% dropped by 2.3%  
 
-### 💼 Business Use Case:
+###  Business Use Case:
 - Executive decision-making on profitability & cost efficiency
 - Foundation for financial forecasting & planning
 
@@ -74,14 +74,14 @@ Provide a P&L statement overview for three fiscal years using core financial KPI
 
 📄 [View Report (PDF)](P%26L%20Statement%20by%20Markets.pdf)
 
-### 🎯 Objective:
+###  Objective:
 Break down profitability (Net Sales, COGS, GM%) across each market in FY2021.
 
-### 📊 Key Insights:
+###  Key Insights:
 - Japan, France, and UK showed strongest GM%
 - Markets with low GM% highlight operational inefficiencies
 
-### 💼 Business Use Case:
+###  Business Use Case:
 - Inform market entry/exit strategies
 - Optimize supply chain & operations in low-margin regions
 
@@ -91,27 +91,27 @@ Break down profitability (Net Sales, COGS, GM%) across each market in FY2021.
 
 📄 [View Report (PDF)](P%26L%20Statement%20by%20Months.pdf)
 
-### 🎯 Objective:
+###  Objective:
 Analyze seasonal trends in sales, cost, and margin data across FY2019–FY2021.
 
-### 📊 Key Insights:
+###  Key Insights:
 - Q4 consistently showed the highest revenue  
 - Steady GM% performance through all months (avg. ~36–38%)
 
-### 💼 Business Use Case:
+###  Business Use Case:
 - Seasonal inventory planning
 - Monthly budgeting and resource allocation
 
 ---
 
-## 🛠️ Tools & Technical Skills
+##  Tools & Technical Skills
 - Excel (Pivot Tables, Charts, Slicers)
 - Power Query & Data Cleaning
 - DAX for calculated columns
 - ETL Concepts: Extract, Transform, Load
 - Date Table logic (fiscal quarters, months)
 
-## 🧠 Business Skills
+##  Business Skills
 - Building business-first dashboards
 - Financial and sales KPI interpretation
 - Strategic insights for management
@@ -119,7 +119,7 @@ Analyze seasonal trends in sales, cost, and margin data across FY2019–FY2021.
 
 ---
 
-## 👋 About Me
+##  About Me
 **Hi, I’m Yash!**  
 A Business & Data Analyst based in Toronto, passionate about turning raw data into business decisions.
 
@@ -129,7 +129,7 @@ A Business & Data Analyst based in Toronto, passionate about turning raw data in
 
 ---
 
-## 📬 Let’s Connect
+##  Let’s Connect
 
 - [🔗 LinkedIn](https://www.linkedin.com/in/yashshahanalyst/) 
 - [💻 GitHub](https://github.com/shahyashba)  
@@ -137,5 +137,5 @@ A Business & Data Analyst based in Toronto, passionate about turning raw data in
 
 ---
 
-### ⭐ If you found this helpful or inspiring, feel free to star this repo!
+###  If you found this helpful or inspiring, feel free to star this repo!
 
